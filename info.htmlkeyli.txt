@@ -1,0 +1,10 @@
+Guardar
+Cenar 
+Nuevo Archivo de bloq de Notas
+Guardar con el nombre info.html
+Escribir
+<html>
+<head><title>informacion
+Personal</title></head>
+<body bgcolor="blue"
+<H1>Informacion personal<h1>
